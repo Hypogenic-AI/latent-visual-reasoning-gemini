@@ -1,0 +1,18 @@
+{
+  "success": false,
+  "stages": {
+    "resource_finder": {
+      "success": false,
+      "completion_marker": null,
+      "outputs": {
+        "papers_dir": "/data/hypogenicai/workspaces/latent-visual-reasoning-gemini/papers",
+        "datasets_dir": "/data/hypogenicai/workspaces/latent-visual-reasoning-gemini/datasets",
+        "code_dir": "/data/hypogenicai/workspaces/latent-visual-reasoning-gemini/code"
+      },
+      "log_file": "/data/hypogenicai/workspaces/latent-visual-reasoning-gemini/logs/resource_finder_gemini.log",
+      "transcript_file": "/data/hypogenicai/workspaces/latent-visual-reasoning-gemini/logs/resource_finder_gemini_transcript.jsonl",
+      "elapsed_time": 137.47863745689392
+    }
+  },
+  "work_dir": "/data/hypogenicai/workspaces/latent-visual-reasoning-gemini"
+}
