@@ -1,0 +1,33 @@
+idea:
+  title: 'Formalizing Latent Visual Reasoning: A Theoretical Framework for Token Dynamics'
+  domain: theory
+  hypothesis: "A formal mathematical or logical framework describing the dynamics\
+    \ and properties of latent visual reasoning tokens will enable principled analysis\
+    \ and improvement. Such a formalization\u2014drawing on recent work in perception\
+    \ tokens (Bigverdi, Luo, Hsieh, Shen, Chen, Shapiro, & Krishna, 2024) and differentiable\
+    \ physics models (Ding, Chen, Du, Luo, Tenenbaum, & Gan, 2021)\u2014will reveal\
+    \ the strengths and weaknesses of latent token mechanisms and suggest new, principled\
+    \ architectural or training modifications.\n"
+  background:
+    description: 'What if we could write down equations for how latent visual reasoning
+      tokens work, just like in physics or logic? Developing a formal model could
+      help us understand, predict, and improve their behavior.
+
+      '
+    papers:
+    - description: '"Perception Tokens Enhance Visual Reasoning in Multimodal Language
+        Models." Bigverdi, M., Luo, Z., Hsieh, C.-Y., Shen, E., Chen, D., Shapiro,
+        L., & Krishna, R. (2024). Computer Vision and Pattern Recognition.'
+    - description: '"Dynamic Visual Reasoning by Learning Differentiable Physics Models
+        from Video and Language." Ding, M., Chen, Z., Du, T., Luo, P., Tenenbaum,
+        J., & Gan, C. (2021). Neural Information Processing Systems.'
+    - description: '"Latent Implicit Visual Reasoning." Li, K., Shang, C., Karlinsky,
+        L., Feris, R., Darrell, T., & Herzig, R. (2025).'
+  metadata:
+    source: IdeaHub
+    source_url: https://hypogenic.ai/ideahub/idea/MLAAj0G21j6oolcxOxNd
+    idea_id: formalizing_latent_visual_reas_20260103_170407_b0fc3208
+    created_at: '2026-01-03T17:04:07.380722'
+    status: submitted
+    github_repo_name: latent-visual-reasoning-gemini
+    github_repo_url: https://github.com/Hypogenic-AI/latent-visual-reasoning-gemini
