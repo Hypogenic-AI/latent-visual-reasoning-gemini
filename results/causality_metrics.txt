@@ -1,0 +1,3 @@
+Diagonal Mean: 0.0119
+Off-Diagonal Mean: 0.0021
+Interaction Score: 0.1753

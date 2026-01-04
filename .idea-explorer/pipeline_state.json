@@ -2,14 +2,25 @@
   "created_at": "2026-01-03T17:04:12.667275",
   "stages": {
     "resource_finder": {
+      "status": "completed",
+      "started_at": "2026-01-03T19:49:25.642528",
+      "completed_at": "2026-01-04T00:22:43.803084",
+      "success": true,
+      "outputs": {
+        "skipped": true
+      }
+    },
+    "experiment_runner": {
       "status": "failed",
-      "started_at": "2026-01-03T17:04:12.667915",
-      "completed_at": "2026-01-03T17:06:30.148413",
+      "started_at": "2026-01-04T00:22:43.803573",
+      "completed_at": "2026-01-04T02:17:13.490714",
       "success": false,
       "outputs": {
-        "papers_dir": "/data/hypogenicai/workspaces/latent-visual-reasoning-gemini/papers",
-        "datasets_dir": "/data/hypogenicai/workspaces/latent-visual-reasoning-gemini/datasets",
-        "code_dir": "/data/hypogenicai/workspaces/latent-visual-reasoning-gemini/code"
+        "success": false,
+        "return_code": 1,
+        "elapsed_time": 6869.672445058823,
+        "log_file": "/data/hypogenicai/workspaces/latent-visual-reasoning-gemini/logs/execution_gemini.log",
+        "transcript_file": "/data/hypogenicai/workspaces/latent-visual-reasoning-gemini/logs/execution_gemini_transcript.jsonl"
       }
     }
   },

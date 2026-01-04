@@ -1,32 +1,31 @@
 # Downloaded Papers
 
-## [Navigating the State of Cognitive Flow: Context-Aware AI Interventions for Effective Reasoning Support](2024_Bigverdi_PerceptionTokens.pdf)
-- **Authors**: Dinithi Dissanayake, Suranga Nanayakkara
-- **Year**: 2025
-- **ArXiv**: http://arxiv.org/abs/2504.16021v1
-- **Abstract**: Flow theory describes an optimal cognitive state where individuals experience deep focus and intrinsic motivation when a task's difficulty aligns with their skill level. In AI-augmented reasoning, interventions that disrupt the state of cognitive flow can hinder rather than enhance decision-making. ...
+1. [Perception Tokens Enhance Visual Reasoning in Multimodal Language Models](2412.03548_perception_tokens.pdf)
+   - Authors: Bigverdi et al.
+   - Year: 2024
+   - arXiv: 2412.03548
+   - Why relevant: Core paper introducing "perception tokens" for visual reasoning.
 
-## [Navigating the State of Cognitive Flow: Context-Aware AI Interventions for Effective Reasoning Support](2021_Ding_DynamicVisualReasoning.pdf)
-- **Authors**: Dinithi Dissanayake, Suranga Nanayakkara
-- **Year**: 2025
-- **ArXiv**: http://arxiv.org/abs/2504.16021v1
-- **Abstract**: Flow theory describes an optimal cognitive state where individuals experience deep focus and intrinsic motivation when a task's difficulty aligns with their skill level. In AI-augmented reasoning, interventions that disrupt the state of cognitive flow can hinder rather than enhance decision-making. ...
+2. [Dynamic Visual Reasoning by Learning Differentiable Physics Models from Video and Language](2110.15358_diff_physics.pdf)
+   - Authors: Ding et al.
+   - Year: 2021
+   - arXiv: 2110.15358
+   - Why relevant: Core paper on differentiable physics for visual reasoning.
 
-## [Learning Global Object-Centric Representations via Disentangled Slot Attention](2020_Locatello_SlotAttention.pdf)
-- **Authors**: Tonglin Chen, Yinxuan Huang, Zhimeng Shen, Jinghao Huang, Bin Li, Xiangyang Xue
-- **Year**: 2024
-- **ArXiv**: http://arxiv.org/abs/2410.18809v1
-- **Abstract**: Humans can discern scene-independent features of objects across various environments, allowing them to swiftly identify objects amidst changing factors such as lighting, perspective, size, and position and imagine the complete images of the same object in diverse settings. Existing object-centric le...
+3. [Object-Centric Learning with Slot Attention](2006.15055_slot_attention.pdf)
+   - Authors: Locatello et al.
+   - Year: 2020
+   - arXiv: 2006.15055
+   - Why relevant: Foundational work on object-centric representations and slots.
 
-## [Predicting concentration levels of air pollutants by transfer learning and recurrent neural network](2019_Goyal_RIM.pdf)
-- **Authors**: Iat Hang Fong, Tengyue Li, Simon Fong, Raymond K. Wong, Antonio J. Tallón-Ballesteros
-- **Year**: 2025
-- **ArXiv**: http://arxiv.org/abs/2502.01654v1
-- **Abstract**: Air pollution (AP) poses a great threat to human health, and people are paying more attention than ever to its prediction. Accurate prediction of AP helps people to plan for their outdoor activities and aids protecting human health. In this paper, long-short term memory (LSTM) recurrent neural netwo...
+4. [Mirage: Machine Mental Imagery with Latent Visual Tokens](2506.17218_mirage.pdf)
+   - Authors: Unknown (from search)
+   - Year: 2025
+   - arXiv: 2506.17218
+   - Why relevant: Explores latent visual tokens for mental imagery and reasoning.
 
-## [Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens](2025_Luo_Mirage.pdf)
-- **Authors**: Zeyuan Yang, Xueyang Yu, Delin Chen, Maohao Shen, Chuang Gan
-- **Year**: 2025
-- **ArXiv**: http://arxiv.org/abs/2506.17218v1
-- **Abstract**: Vision-language models (VLMs) excel at multimodal understanding, yet their text-only decoding forces them to verbalize visual reasoning, limiting performance on tasks that demand visual imagination. Recent attempts train VLMs to render explicit images, but the heavy image-generation pre-training oft...
-
+5. [Interleaved Latent Visual Reasoning with Selective Perceptual Modeling](2512.05665_ilvr.pdf)
+   - Authors: Unknown (from search)
+   - Year: 2025
+   - arXiv: 2512.05665
+   - Why relevant: Interleaving latent visual reasoning with language generation.

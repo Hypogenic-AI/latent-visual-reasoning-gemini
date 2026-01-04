@@ -1,0 +1,2 @@
+Slot OOD MSE: 0.031424
+Base OOD MSE: 0.041534

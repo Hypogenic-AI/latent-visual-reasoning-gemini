@@ -1,0 +1,3 @@
+Full Model MSE: 0.013370
+No Interaction MSE: 0.016662
+Improvement: 19.76%

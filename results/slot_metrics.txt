@@ -1,0 +1,2 @@
+Mean Slot Acceleration: 26.3581
+Valid Slots: [0, 1, 2, 3, 4, 5]
